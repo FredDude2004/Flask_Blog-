@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variable files
+.env
+
+# Vim swap and backup files
+*.swp
+*.swo
+*.swn
+*~
+
+# Python packaging
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Logs
+*.log
+
+# SQLite databases (if used locally)
+*.sqlite3
+
+# macOS (if accessing via dual-boot or shared folder)
+.DS_Store
+
+# Windows Thumbs.db
+Thumbs.db
+
